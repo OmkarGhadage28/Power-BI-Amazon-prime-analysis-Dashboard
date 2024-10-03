@@ -1,1 +1,8 @@
-# Power-BI-Amazon-prime-analysis-Dashboard
+# Amazon Prime 
+* The Amazon Prime Video dashboard provides key insights into how the platform reaches audiences worldwide, the variety of content it offers, and what viewers like to watch. Prime Video is available in many regions, with a strong selection of content in countries like the United States, India, and Australia. Since 2000, the platform has grown quickly, especially after 2010, thanks to Amazon's big investments in producing and acquiring more content.
+
+* There is a wide range of genres available, with Drama having the most titles at 986, followed by Comedy, Action, and Documentary. This shows Amazon's strategy to attract different types of viewers. Viewership data reveals that Comedy TV shows and Action movies are very popular, with 38.7 million and 30.4 million viewers, respectively. Thriller TV shows also do well, attracting 37.7 million viewers. Even though there are more movies (781,000 titles) than TV shows (185,000 titles), TV shows like comedies and thrillers still engage a large audience.
+
+* Most content is rated for mature audiences (TV-MA), with 1,849 shows, suggesting a high demand for adult programming like thrillers and dramas. There is also a good mix of family-friendly options, with ratings like PG-13 and TV-14.
+
+* Viewership tends to be higher for well-rated genres like Comedy and Action. While niche genres like Documentary and Animation attract fewer viewers, they still add to the diversity of the platform and cater to specific interests. Since 2010, Amazon Prime Video has greatly expanded its catalog, especially with original programming and exclusive deals to compete in the streaming market.
